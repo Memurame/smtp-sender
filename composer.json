@@ -1,0 +1,13 @@
+{
+    "name": "memurame/smtp-sender",
+    "authors": [
+        {
+            "name": "Thomas Hirter",
+            "email": "tom@hirter.dev"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "erusev/parsedown": "^1.7"
+    }
+}
